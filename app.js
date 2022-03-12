@@ -19,4 +19,4 @@ setInterval(() => {
     const imgURL = img[imgIndex];
     sliderImg.setAttribute('src', imgURL)
     imgIndex++
-}, 1000)
+}, 1500)
